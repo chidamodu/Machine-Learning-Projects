@@ -1,0 +1,8 @@
+Abstract: 3D road network with highly accurate elevation information (+-20cm) from Denmark used in eco-routing and 
+fuel/Co2-estimation routing algorithms.
+
+Attribute Information:
+1. OSM_ID: OpenStreetMap ID for each road segment or edge in the graph.
+2. LONGITUDE: Web Mercaptor (Google format) longitude
+3. LATITUDE: Web Mercaptor (Google format) latitude
+4. ALTITUDE: Height in meters.
