@@ -1,0 +1,68 @@
+                                                  
+The F1 score for 1 iteration is 0.7340067340067341
+                                                  
+                                                  
+The Precision for 1 iteration is [0.16761364 0.90833333 1.        ]
+                                                  
+                                                  
+The Recall for 1 iteration is [1.         0.61581921 0.        ]
+                                                  
+                                                  
+The thresholds for 1 iteration is [0 1]
+##################################################
+                                                  
+                                                  
+The F1 score for 2 iteration is 0.7231270358306188
+                                                  
+                                                  
+The Precision for 2 iteration is [0.16761364 0.85384615 1.        ]
+                                                  
+                                                  
+The Recall for 2 iteration is [1.         0.62711864 0.        ]
+                                                  
+                                                  
+The thresholds for 2 iteration is [0 1]
+##################################################
+                                                  
+                                                  
+The F1 score for 3 iteration is 0.7228070175438595
+                                                  
+                                                  
+The Precision for 3 iteration is [0.16761364 0.9537037  1.        ]
+                                                  
+                                                  
+The Recall for 3 iteration is [1.        0.5819209 0.       ]
+                                                  
+                                                  
+The thresholds for 3 iteration is [0 1]
+##################################################
+                                                  
+                                                  
+The F1 score for 4 iteration is 0.7055016181229774
+                                                  
+                                                  
+The Precision for 4 iteration is [0.16761364 0.82575758 1.        ]
+                                                  
+                                                  
+The Recall for 4 iteration is [1.         0.61581921 0.        ]
+                                                  
+                                                  
+The thresholds for 4 iteration is [0 1]
+##################################################
+                                                  
+                                                  
+The F1 score for 5 iteration is 0.7218543046357616
+                                                  
+                                                  
+The Precision for 5 iteration is [0.16666667 0.86507937 1.        ]
+                                                  
+                                                  
+The Recall for 5 iteration is [1.         0.61931818 0.        ]
+                                                  
+                                                  
+The thresholds for 5 iteration is [0 1]
+##################################################
+                                                  
+                                                  
+##################################################
+The final average F1 score across all 5 folds is 0.72
