@@ -1,0 +1,40 @@
+                                                  
+Parameters tried: {'n_estimators': [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 32], 'max_depth': [12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 26], 'min_samples_split': [3, 4, 5, 6, 7, 8, 9, 10, 12], 'max_features': [2, 3, 4, 5, 6, 7]}
+                                                  
+Best score reached: 0.96
+                                                  
+Best parameters: {'n_estimators': 30, 'min_samples_split': 6, 'max_features': 3, 'max_depth': 16}
+                                                  
+Average standard deviation validation score is 0.062227860970061624
+                                                  
+Average standard deviation train score is 0.0012481987838390781
+                                                  
+##################################################
+                                                  
+Feature importance using Random Forest's feature_importances_ [0.22253321 0.03285092 0.03892569 0.04052577 0.01889478 0.02657361
+ 0.0475332  0.04336277 0.1042584  0.04000608 0.11280846 0.03109487
+ 0.02086644 0.01981895 0.0491559  0.065982   0.01949826 0.02276653
+ 0.02736296 0.0151812 ]
+                                                  
+##################################################
+                                                  
+Feature importance using Boruta 20
+                                                  
+Weak features using Boruta [False False False False False False False False False False False False
+ False False False False False False False False]
+                                                  
+Selected features using Boruta [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True]
+                                                  
+Feature ranking using Boruta [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+                                                  
+##################################################
+                                                  
+##################################################
+confusion_matrix is
+ [[193  27]
+ [  9  35]]                                                  
+##################################################
+                                                  
+Total time taken 33.779897928237915
+                                                  

@@ -1,0 +1,17 @@
+                                                  
+##################################################
+The best parameters are {'max_depth': 13, 'max_features': 9, 'min_samples_leaf': 3, 'min_samples_split': 8, 'n_estimators': 17}
+                                                  
+##################################################
+Mean cross-validated score of the best_estimator is 0.7776813234474537
+                                                  
+##################################################
+Names of features seen during fit are ['Tenure' 'CityTier' 'WarehouseToHome' 'PreferredPaymentMode'
+ 'HourSpendOnApp' 'NumberOfDeviceRegistered' 'SatisfactionScore'
+ 'MaritalStatus' 'NumberOfAddress' 'Complain'
+ 'OrderAmountHikeFromlastYear' 'CouponUsed' 'OrderCount'
+ 'DaySinceLastOrder' 'CashbackAmount' '0_PreferredLoginDevice'
+ '1_PreferredLoginDevice' '0_Gender']
+                                                  
+##################################################
+Total time taken 486.66077613830566
