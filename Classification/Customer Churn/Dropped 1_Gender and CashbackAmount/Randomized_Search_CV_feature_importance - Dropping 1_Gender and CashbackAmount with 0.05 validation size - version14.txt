@@ -1,0 +1,42 @@
+                                                  
+Parameters tried: {'n_estimators': [13, 14, 15, 16, 17, 18, 19, 20], 'max_depth': [11, 12, 13, 14, 15, 16, 17], 'min_samples_split': [5, 6, 7, 8, 9, 10], 'max_features': [6, 7, 8, 9, 10, 12], 'min_samples_leaf': [3, 4, 5]}
+                                                  
+Best score reached: 0.76
+                                                  
+Best parameters: {'n_estimators': 19, 'min_samples_split': 7, 'min_samples_leaf': 3, 'max_features': 7, 'max_depth': 11}
+                                                  
+Average of mean validation score is 0.7436470472882417
+                                                  
+Average of mean train score is 0.8900675171194861
+                                                  
+Average standard deviation validation score is 0.015337068205631823
+                                                  
+Average standard deviation train score is 0.006528236999680581
+                                                  
+##################################################
+                                                  
+Feature importance using Random Forest's feature_importances_ [0.34346537 0.02287348 0.07672084 0.03195408 0.01098374 0.02612203
+ 0.0403191  0.05476432 0.02370774 0.07651105 0.07599599 0.05413663
+ 0.02308109 0.02647303 0.07584659 0.01145667 0.01108659 0.01450168]
+                                                  
+##################################################
+                                                  
+Feature importance using Boruta 6
+                                                  
+Weak features using Boruta [False False False False False False False False False False False False
+ False False False False False False]
+                                                  
+Selected features using Boruta [ True False  True False False False False False False  True  True  True
+ False False  True False False False]
+                                                  
+Feature ranking using Boruta [ 1  9  1  5 10  5  3  2  5  1  1  1  8  7  1 13 12 11]
+                                                  
+##################################################
+                                                  
+confusion_matrix is
+ [[216   4]
+ [ 17  27]]                                                  
+##################################################
+                                                  
+Total time taken 11.04229211807251
+                                                  
