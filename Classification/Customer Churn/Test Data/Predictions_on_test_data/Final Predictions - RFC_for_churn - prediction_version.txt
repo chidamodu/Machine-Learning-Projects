@@ -1,0 +1,17 @@
+                                                  
+##################################################
+Final f1_score on test data is 0.85
+                                                  
+##################################################
+confusion_matrix for test data is
+ [[281   5]
+ [ 13  51]]                                                  
+##################################################
+The Precision for test data is [0.18285714 0.91071429 1.        ]
+                                                  
+The Recall for test data is [1.       0.796875 0.      ]
+                                                  
+The thresholds for test data is [0 1]
+##################################################
+                                                  
+Total time taken 0.01326894760131836
