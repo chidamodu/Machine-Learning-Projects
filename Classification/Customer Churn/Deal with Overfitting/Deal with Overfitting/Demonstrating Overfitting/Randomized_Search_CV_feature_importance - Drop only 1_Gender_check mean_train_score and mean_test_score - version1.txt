@@ -1,0 +1,39 @@
+                                                  
+Parameters tried: {'n_estimators': [30, 31, 32, 33, 34], 'max_depth': [17, 18, 19, 20, 21], 'min_samples_split': [2, 3, 4, 5], 'max_features': [5, 6, 7, 8, 9, 10, 11]}
+                                                  
+Best score reached: 0.87
+                                                  
+Best parameters: {'n_estimators': 34, 'min_samples_split': 2, 'max_features': 9, 'max_depth': 21}
+                                                  
+Average of mean validation score is 0.8555674808520115
+                                                  
+Average of mean train score is 0.9946565877449954
+                                                  
+##################################################
+                                                  
+Feature importance using Random Forest's feature_importances_ [0.26795251 0.02421654 0.08151869 0.03177713 0.02064801 0.03503204
+ 0.02743217 0.04646068 0.02444396 0.0723917  0.06233108 0.0596924
+ 0.02105002 0.02868259 0.06372769 0.09455507 0.01164393 0.01136857
+ 0.0150752 ]
+                                                  
+##################################################
+                                                  
+Feature importance using Boruta 6
+                                                  
+Weak features using Boruta [False False False False False False False False False False False False
+ False False False False False False False]
+                                                  
+Selected features using Boruta [ True False  True False False False False False False  True  True False
+ False False  True  True False False False]
+                                                  
+Feature ranking using Boruta [ 1 10  1  8 11  5  4  3  6  1  1  2  9  7  1  1 14 13 12]
+                                                  
+##################################################
+                                                  
+confusion_matrix is
+ [[217   3]
+ [ 11  33]]                                                  
+##################################################
+                                                  
+Total time taken 16.980761766433716
+                                                  

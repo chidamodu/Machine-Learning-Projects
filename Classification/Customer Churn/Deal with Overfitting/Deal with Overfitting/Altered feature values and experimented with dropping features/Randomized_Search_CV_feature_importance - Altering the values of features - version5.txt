@@ -1,0 +1,43 @@
+                                                  
+Parameters tried: {'n_estimators': [8, 9, 10, 11, 12, 13], 'max_depth': [11, 12, 13, 14, 15, 16], 'min_samples_split': [2, 3, 4, 5], 'max_features': [5, 6, 7, 8, 9], 'min_samples_leaf': [3, 4, 5]}
+                                                  
+Best score reached: 0.77
+                                                  
+Best parameters: {'n_estimators': 9, 'min_samples_split': 2, 'min_samples_leaf': 3, 'max_features': 8, 'max_depth': 16}
+                                                  
+Average of mean validation score is 0.7314582928197638
+                                                  
+Average of mean train score is 0.8857041244675405
+                                                  
+Average standard deviation validation score is 0.01742322121749003
+                                                  
+Average standard deviation train score is 0.007027841575337599
+                                                  
+##################################################
+                                                  
+Feature importance using Random Forest's feature_importances_ [0.30623151 0.02471922 0.07288735 0.02859104 0.01920478 0.02820551
+ 0.02766207 0.0474373  0.02914122 0.0680968  0.06352914 0.05171972
+ 0.02251734 0.01859062 0.05913562 0.09564725 0.01347019 0.01168468
+ 0.01152863]
+                                                  
+##################################################
+                                                  
+Feature importance using Boruta 6
+                                                  
+Weak features using Boruta [False False False False False False False False False False False False
+ False False False False False False False]
+                                                  
+Selected features using Boruta [ True False  True False False False False False False  True  True False
+ False False  True  True False False False]
+                                                  
+Feature ranking using Boruta [ 1 10  1  8 11  5  4  3  6  1  1  2  9  7  1  1 14 13 12]
+                                                  
+##################################################
+                                                  
+confusion_matrix is
+ [[217   3]
+ [ 14  30]]                                                  
+##################################################
+                                                  
+Total time taken 8.172523975372314
+                                                  
