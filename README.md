@@ -1,1 +1,1 @@
-I am planning to practice machine learning model building, feature transformation, and other ML techniques with more emphasis on goals, analysis, reasoning (supported with visualizations), process, and other subtleties involved in solving open ended problems.
+The goal is to practice machine learning model building, feature transformation, and other ML techniques with more emphasis on goals, analysis, reasoning (supported with visualizations), process, and other subtleties involved in solving open ended problems.
